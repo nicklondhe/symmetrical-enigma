@@ -41,6 +41,8 @@ jupyter-book build .
 ```
 You’ll find the HTML output in `_build/html/index.html.`
 ## 🗂️ Directory Structure
+
+```bash
 symmetrical-enigma/
 │
 ├── _config.yml           # Jupyter Book configuration
@@ -53,7 +55,7 @@ symmetrical-enigma/
 │   ├── 04-finetuning.md
 │   ├── 05-evocative-imagery.md
 │   └── 06-deployment.md
-└── requirements.txt      # Optional: dependencies if not using poetry or uv
+```
 
 ## ✨ Future Goals
 
