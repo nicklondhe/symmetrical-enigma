@@ -1,0 +1,9 @@
+format: jb-book
+root: intro
+chapters:
+  - file: content/01-theory
+  - file: content/02-setup
+  - file: content/03-prompting
+  - file: content/04-finetuning
+  - file: content/05-evocative-imagery
+  - file: content/06-deployment
