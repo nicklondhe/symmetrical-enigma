@@ -1,5 +1,6 @@
 title: AI-Assisted Art with Latent Diffusion
 author: Nik Londhe
+copyright: 2025
 logo: assets/logo.png  # optional
 only_build_toc_files: true
 execute:
